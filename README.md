@@ -1,6 +1,6 @@
 📊 BudgetFlow – Expense Tracker App
 
-BudgetFlow is a simple and clean expense tracking mobile application built with React Native.
+BudgetFlow is a simple and clean expense tracking mobile application.
 It helps users manage their daily expenses, track spending, and maintain better financial habits.
 
 ---
@@ -8,7 +8,7 @@ It helps users manage their daily expenses, track spending, and maintain better 
 🚀 Features
 
 - 💰 Track daily expenses
-- 📅 Organize spending by date
+- 📅 Organize spending by month
 - 📊 Simple and clean interface
 - ⚡ Fast and lightweight mobile app
 - 📱 Works on Android devices
